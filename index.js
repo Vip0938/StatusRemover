@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ルナ製 ˙ᵕ˙","Made by Lunar ˙ᵕ˙"];
+const statusMessages = ["💜 ルナ製","💜 Made by Lunar"];
 
 
 let currentIndex = 0;
